@@ -1,5 +1,20 @@
-> **ONLI 3.0 Market Opportunity Validation (Stablecoins, Crypto Infra,
-> RWAs, OTC Derivatives)**
+> -   **Title:** *ONLI 3.0 Market Opportunity Validation (Stablecoins, Crypto Infrastructure, Tokenized Real‑World Assets and OTC Derivatives)*
+    
+-   **Abstract:** This report estimates the size of the markets that ONLI 3.0 hopes to serve. It divides the opportunity into four segments—stablecoins, crypto infrastructure, tokenized real‑world assets (RWAs) and over‑the‑counter derivatives—and provides current size and 2030 projections for each[github.com](https://github.com/OnliSyn/whitepapers/blob/main/onli-market-opportunity-validation-stablecoins-crypto-infra-rwas-otc-derivatives.md#:~:text=,AI%20infrastructure%2C%20and%20blockchain%20platforms). The paper accounts for overlaps (e.g., stablecoins backed by tokenized Treasury bills) to avoid double‑counting and concludes that these segments collectively represent a **total addressable market (TAM) of roughly US$17 trillion by 2030**, with ONLI targeting about **4 %** of this flow[github.com](https://github.com/OnliSyn/whitepapers/blob/main/onli-market-opportunity-validation-stablecoins-crypto-infra-rwas-otc-derivatives.md#:~:text=,AI%20infrastructure%2C%20and%20blockchain%20platforms). It argues that ONLI’s platform, with its flat US$0.05 minting fee and regulatory‑ready design, is well positioned for institutional issuers and traders[github.com](https://github.com/OnliSyn/whitepapers/blob/main/onli-market-opportunity-validation-stablecoins-crypto-infra-rwas-otc-derivatives.md#:~:text=,ONLI%27s%20infrastructure%20could%20thus).
+    
+-   **Short version (plain‑English summary):**
+    
+    -   **Market segments:** Stablecoins are expected to grow from around **US$250 billion** market capitalization in mid‑2025 to **US$1–2 trillion by 2030**[github.com](https://github.com/OnliSyn/whitepapers/blob/main/onli-market-opportunity-validation-stablecoins-crypto-infra-rwas-otc-derivatives.md). Independent data confirm that stablecoin market cap reached **US$251.7 billion** when the U.S. Senate passed the GENIUS Act in June 2025[reuters.com](https://www.reuters.com/business/finance/stablecoins-market-cap-surges-record-high-us-senate-passes-bill-2025-06-18/#:~:text=June%2018%20%28Reuters%29%20,corner%20of%20the%20crypto%20market). Transaction volumes already exceed those of Visa and Mastercard; stablecoin transfers totalled **US$27.6 trillion in 2024**, surpassing the payment networks’ combined volume[cointelegraph.com](https://cointelegraph.com/news/stablecoins-beat-visa-mastercard-2024-volume#:~:text=The%20annual%20stablecoin%20transfer%20volume,io).
+        
+    -   **RWA tokenization:** Tokenization of real‑world assets (e.g., bonds and real estate) is projected to expand from **US$50 billion on‑chain value in early 2025** to hundreds of billions by 2030[github.com](https://github.com/OnliSyn/whitepapers/blob/main/onli-total-addressable-market-tam-claims-validation-research-report8_15.md#:~:text=The%20tokenization%20of%20real,chain).
+        
+    -   **ONLI’s proposition:** ONLI’s flat US$0.05 fee per asset minted offers a predictable cost advantage over blockchain systems with volatile gas fees[github.com](https://github.com/OnliSyn/whitepapers/blob/main/onli-market-opportunity-validation-stablecoins-crypto-infra-rwas-otc-derivatives.md#:~:text=,stablecoin%20products%20on%20a%20platform). The paper suggests that such low, fixed fees could help institutional players issue large volumes of stablecoins or RWAs without prohibitive costs.
+        
+    -   **Credibility of the TAM:** The estimated US$17 trillion TAM is aggregated from existing industry forecasts for stablecoins, tokenized assets, crypto infrastructure and OTC derivatives. While ambitious, the figure aligns with mainstream projections that stablecoins alone could reach multiple trillions and that tokenized securities markets could dwarf today’s crypto sector.
+        
+    -   **Forward‑looking view:** ONLI’s success depends on regulatory outcomes (such as passage of the U.S. GENIUS Act), adoption by financial institutions and competition from other infrastructure providers. The market analysis provides a useful baseline for assessing the opportunity but should be revisited as legislation and market conditions evolve.
+        
+-   **Paper (full text):**
 >
 > ONLI 3.0's addressable market spans four key segments:
 > **Stablecoins**, **Cryptocurrency Infrastructure**, **Tokenized
