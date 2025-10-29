@@ -11,7 +11,7 @@ This is a documentation repository containing technical whitepapers for the ONLI
 - Market analysis and cost comparisons
 - Technical documentation on Genomes, Genes, Vaults, and tensor-based uniqueness
 
-**Note:** The `old.gitignore/` directory contains deprecated versions and should be ignored when working with current documentation.
+**Note:** The `old.gitignore/` directory contains deprecated versions and should be ignored when working with current documentation. The `brandimages/` folder contains visual assets and should also be ignored.
 
 ## Document Structure
 
@@ -87,5 +87,4 @@ Key statistics: Price ($1.00), Market Inventory (Specie listed for sale), Stabil
 
 - This is a documentation repository—there is no build, test, or deployment process
 - Changes are typically reviewed for technical accuracy and terminology consistency
-- The `brandimages/` directory contains supporting visual assets
 - All whitepapers assume reader familiarity with blockchain, databases, and property law fundamentals
